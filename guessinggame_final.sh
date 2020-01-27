@@ -11,7 +11,6 @@ echo "re-enter your response"
 read response
 fi
 }
-
 files=$(ls -1|wc -l)
 echo "please enter your response"
 read response
